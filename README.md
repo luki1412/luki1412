@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luki
+- 👋 Hi, I’m Luki. Also known as Ultimate Luki and luki1412
 - 👀 I’m interested in C# && Powershell and sometimes Javascript
 - 🌱 I’m currently learning C# and UI design
 - 💞️ I’m looking to collaborate on cool projects
